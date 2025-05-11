@@ -56,8 +56,8 @@ Develop a secure, scalable, and decentralized EHR system that allows:
 
 | Document Type        | File Link                                                                 |
 |----------------------|---------------------------------------------------------------------------|
-| 📘 Final Report (PDF) | [Blockchain minor.pdf.pdf](https://github.com/PandeySnehil/MiniProject/blob/main/docs/Blockchain%20minor.pdf.pdf) |
-| 📽️ Presentation (PPT) | [HealChain ppt.pptx](https://github.com/PandeySnehil/MiniProject/blob/main/docs/HealChain%20ppt.pptx) |
+| 📘 Final Report (PDF) | [Blockchain minor.pdf.pdf](https://github.com/PandeySnehil/MiniProject/blob/main/Mini%20Project/my-solidity/docs/Blockchain%20minor.pdf.pdf) |
+| 📽️ Presentation (PPT) | [HealChain ppt.pptx](https://github.com/PandeySnehil/MiniProject/blob/main/Mini%20Project/my-solidity/docs/HealChain%20ppt.pptx) |
 
 ---
 
