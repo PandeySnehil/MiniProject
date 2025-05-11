@@ -5,7 +5,7 @@
 ## 🔗 Repository
 
 📁 GitHub Repo: [MiniProject](https://github.com/PandeySnehil/MiniProject)  
-📂 Docs: [`/docs`](https://github.com/PandeySnehil/MiniProject/tree/main/docs)
+📂 Report: [`/docs`](Mini Project/my-solidity/docs/Blockchain minor.pdf.pdf)
 
 ---
 
