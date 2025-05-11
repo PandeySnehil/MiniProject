@@ -5,7 +5,9 @@
 ## 🔗 Repository
 
 📁 GitHub Repo: [MiniProject](https://github.com/PandeySnehil/MiniProject)  
+
 📂 Report: [`/docs`](https://github.com/PandeySnehil/MiniProject/blob/main/Mini%20Project/my-solidity/docs/Blockchain%20minor.pdf.pdf)
+
 📂 Report: [`/docs`](https://github.com/PandeySnehil/MiniProject/blob/main/Mini%20Project/my-solidity/docs/HealChain%20ppt.pptx)
 
 ---
